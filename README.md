@@ -1,2 +1,4 @@
 # us-cities
-A folder with a JSON file for each state containing all the cities in that state.
+A folder with a JSON file for each state containing all the cities in that state. Nothing more, nothing less.
+
+Data taken from: https://simplemaps.com/data/us-cities
