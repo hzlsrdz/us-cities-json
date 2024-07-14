@@ -1,6 +1,14 @@
-# us-cities
-A folder with a JSON file for each of the 50 states containing all the cities in that state. Nothing more, nothing less.
+# us-cities-json
+## City Data Files
 
-files in format [USPS postal abbreviation].json
+The **states** folder contains a JSON file for each of the 50 states. Each JSON file includes a list of all the cities within that state.
+### File Format
 
-Data taken from: https://simplemaps.com/data/us-cities
+The files are named using the USPS postal abbreviation for each state. For example:
+
+    CA.json for California
+    NY.json for New York
+
+### Data Source
+
+The city data was obtained from: [SimpleMaps US Cities Data](https://simplemaps.com/data/us-cities).
